@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello, I`m Kristina</h1>
+<h1>Hi there, I`m Kristina</h1>
+<h3>I`m a Frontend developer from Ukraine</h3>
